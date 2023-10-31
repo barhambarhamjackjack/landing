@@ -1,0 +1,44 @@
+body{
+  background: #eee;
+}
+
+.tile-container{
+  display:flex;
+  align-items: stretch;
+  flex-direction: row;
+  padding-inline: 100px;
+  height: 300px;
+}
+.tile{
+  flex:3 0 100px;
+  align-self:center;
+  text-align: center;
+  font-weight: bold;
+  max-width:100%;
+  min-height: 10rem;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+  margin:50px;
+  background:white;
+  color: darkgreen;
+  border-radius: 10px;
+  padding: 10px;
+  height: 120%;
+  margin: 60px;
+}
+
+.tile img {
+  width: 150px;
+  height: 150px;
+}
+
+.tile p {
+  font-size: smaller;
+  color: black;
+  font-weight: normal;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.tile h4 {
+  font-size: larger;
+}

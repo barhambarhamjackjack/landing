@@ -1,0 +1,27 @@
+.footer {
+  background-color:rgb(1, 78, 1);
+  align-items: center;
+  color: antiquewhite;
+  align-content: center;
+  font-size: 50px;
+  text-align: center;
+  padding: 25px;
+  letter-spacing: 10px;
+  padding-top: 80px;
+}
+
+
+
+.footer button {
+  color:antiquewhite;
+  background-color: transparent;
+
+}
+
+.fa-brands {
+  color: antiquewhite;
+}
+
+.fa-regular {
+  color: antiquewhite;
+}

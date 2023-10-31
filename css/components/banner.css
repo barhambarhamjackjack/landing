@@ -1,0 +1,13 @@
+.banner {
+  padding: 150px 0;
+  background-position: center;
+  color: white;
+}
+
+.banner h1 {
+  margin: 0;
+}
+
+.banner p {
+  font-style: inherit;
+}
